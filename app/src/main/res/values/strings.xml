@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">quote</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">All Quote</string>
+    <string name="menu_gallery">Random Quote</string>
+    <string name="menu_slideshow">Add Quote</string>
+    <string name="id">Ingrese ID</string>
+    <string name="quote">Insertar</string>
+    <string name="author">Ingresa autor</string>
+</resources>
